@@ -44,12 +44,11 @@ Customer Page
 ## 🧠 Insights
 
 Q Which products are top-selling across regions?
+
     - Beauty products are top-selling across regions acquiring 27% of share.
-    
-Q Which customer segment is driving the most revenue?
-    - 
-    
+        
 Q How has sales performance trended over time?
+
     - Year 2024 shows the highest average profit margin of 31.59 where beauty products are top-selling products.
 
 ## 🤝 Contributing
