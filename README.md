@@ -2,7 +2,7 @@
 
 This Power BI project provides an interactive analysis of product sales, featuring insights across customer segments and overall sales performance.
 
-## 📁 Project Overview
+## 📁 Dashboard Overview
 
 The dashboard is divided into two main pages:
 
